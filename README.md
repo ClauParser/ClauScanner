@@ -11,6 +11,6 @@
 # Text Style 002
     # json-like?
     TokenType : { } : [ ] "quoted string"  "quoted \" string \" 123 "  string  
-                /* multi line comment */  // line comment  \
+                /* multi line comment */  // line comment  
                 # line comment
                 
