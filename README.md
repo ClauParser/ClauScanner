@@ -3,6 +3,14 @@
 
   2. Most TokenType is STRING. also integer is handled as STRING. so, STRING -> INTEGER (Conversion) is needed.
  
+# Text Style 000
+    line comment, multi-line comment, quoted string.
+    //
+    /*
+    */
+    *
+    /
+    "
 
 # Text Style 001
     # Paradox Game Save Data Style + line comment ?.
